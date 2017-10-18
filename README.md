@@ -4,7 +4,7 @@ A good password is hard to guess but easy to remember.  https://xkcd.com/936/ ex
 
 ## Usage
 
-This script picks four random words for you.  It then shows you the number of similar combinations it could have come up with.  (On my machine, the `words.txt` file contains 57,077 words.  I haven't heard of a lot of them, but they're at least memorable.)
+This script picks four random words for you.  It then shows you the number of similar combinations it could have come up with.  (On my machine, the `words.txt` file contains 57,077 words.  I haven't heard of a lot of them, but they're at least more memorable than random letters and numbers.)
 
 <pre>
 $ ./randompassword.py
